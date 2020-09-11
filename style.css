@@ -20,6 +20,7 @@ body {
   color: var(--white);
   display: flex;
   flex-direction: column;
+  font-family: Archivo;
 }
 
 a {
@@ -79,4 +80,9 @@ a {
   justify-content: center;
   align-items: center;
   border-top: 5px solid var(--green);
+}
+
+.footer span {
+  font-size: 12px;
+  font-weight: 500;
 }
