@@ -1,2 +1,3 @@
-# bio
-Site with Social Media links
+<p align="center">
+  <img src="assets/images/rfxbio.svg">
+</p>
