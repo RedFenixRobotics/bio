@@ -15,7 +15,7 @@
 
 body {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   background-color: var(--dark-grey);
   color: var(--white);
   display: flex;
@@ -39,7 +39,8 @@ a {
 
 .content {
   width: 100%;
-  height: 100%;
+  margin-bottom: 15px;
+  margin-top: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -73,9 +74,7 @@ a {
 .footer {
   width: 100%;
   height: 30px;
-  bottom: 0;
   background: var(--grey);
-  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
