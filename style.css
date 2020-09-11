@@ -55,6 +55,7 @@ a {
   justify-content: start;
   align-items: center;
   transition: 0.2s;
+  border-radius: 8px;
 }
 
 .content .link:hover {
